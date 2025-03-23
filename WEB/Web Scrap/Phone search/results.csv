@@ -1,0 +1,26 @@
+Nom;Prix;Definition;Frequence d'affichage;Date de sortie;Processeur;RAM;Carte Graphique;temps de charge;CPU;Finesse de gravure;Capacite;Puissance de la charge rapide;Camera;Capteur photo frontal;Prise jack;Capteur d'empreinte digitale;etanche;Poids;Epaisseur
+Google Pixel 6a;349;2400 x 1080 pixels;60;28/06/2022;Tensor;6 Go;Mali-G78 MP20;1,225;Octa-Core;5;4410,00;18;12.2 ,  12 ;8;Non;Sous l'ecran;Oui;178;8.9 
+Nokia G60;319;2400 x 1080 pixels;120;15/10/2022;Snapdragon 695;4 Go,  6 Go;Adreno 619;1,125;Octo-core;6;4500,00;20;50 ,  5 ,  2 ;8;Oui;Oui;Non;190;8.61 
+Samsung Galaxy M53;399;2408 x 1080 pixels;120;25/04/2022;Exynos 1080;6 Go;Mali-G78 MP10;1;Octa-core;5;5000,00;25;108 ,  8 ,  2 ,  2 ;32;Non;Oui;Non;176;7.4 
+Samsung Galaxy A53;379;2400 x 1080 pixels;120;17/03/2022;Exynos 1280;;ARM Mali-G68 MC4;1;Octa-core;5;5000,00;25;64 ,  12 ,  5 ,  5 ;32;Non;Sous l'ecran;Oui;189;8.1 
+Xiaomi Redmi Note 11;179;2400 x 1080 pixels;90;26/01/2022;Snapdragon 680;4 Go,  6 Go;Adreno 610;0,757575758;Octa-core;6;5000,00;33;50 ,  8 ,  2 ,  2 ;13;Oui;Oui;Non;179;8.09 
+OnePlus Nord CE;229;2400 x 1080 pixels;90;19/07/2021;Snapdragon 750G;6 Go,  8 Go,  12 Go;Adreno 619;0,75;Octa-core;8;4500,00;30;64 ,  8 ;16;Oui;Sous l'ecran;Non;170;7.9 
+Xiaomi Poco F3;390;2400 x 1080 pixels;120;22/03/2021;Snapdragon 870;6 Go,  8 Go,  12 Go;Adreno 650;0,684848485;Octa-core;7;4520,00;33;48 ,  8 ,  5 ;20;Non;Oui;Non;196;7.8 
+Oppo Reno 8 Lite;379;2400 x 1080 pixels;60;05/09/2022;Snapdragon 695;8 Go;Adreno 619;0,681818182;Octo-core;6;4500,00;33;64 ,  2 ,  2 ;16;Oui;Sous l'ecran;Non;173;7.55 
+Oppo Reno 7;249;2400 x 1080 pixels;90;21/04/2022;Snapdragon 680;8 Go;Adreno 610;0,681818182;Octa-core;6;4500,00;33;64 ,  2 ,  2 ;32;Oui;Sous l'ecran;Non;175;7.49 
+Vivo V21;289;2400 x 1080 pixels;90;18/06/2021;Dimensity 800U;8 Go;Mali-G57 MC3;0,606060606;Octa-core;7;4000,00;33;64 ,  8 ,  2 ;44;Non;Sous l'ecran;Non;175;7.29 
+Nothing phone (1);399;2400 x 1080 pixels;120;12/07/2022;Snapdragon 778G+;8 Go,  12 Go;Qualco Adreno 642L;0,5;Octo-core;6;4500,00;45;50 ,  12 ;8;Non;Oui;Non;193;8.3 
+Realme 9 Pro Plus;369;2400 x 1080 pixels;90;23/02/2022;Dimensity 920;6 Go,  8 Go;ARM Mali-G68 MC4;0,375;Octa-core;6;4500,00;60;50 ,  8 ,  2 ;16;Oui;Sous l'ecran;Non;182;7.99 
+Realme 9 Pro Plus;369;2400 x 1080 pixels;90;23/02/2022;Dimensity 920;6 Go,  8 Go;ARM Mali-G68 MC4;0,375;Octa-core;6;4500,00;60;50 ,  8 ,  2 ;16;Oui;Sous l'ecran;Non;182;7.99 
+Honor 70;479;2400 x 1080 pixels;120;02/09/2022;Snapdragon 778G+;8 Go;Qualco Adreno 642L;0,363636364;Octo-core;6;4800,00;66;54 ,  50 ,  2 ;32;Non;Sous l'ecran;Non;178;7.91 
+Oppo Find X5 Lite;399;2400 x 1080 pixels;90;24/02/2022;Dimensity 900;8 Go;ARM Mali-G68 MC4;0,346153846;Octa-core;6;4500,00;65;64 ,  8 ,  2 ;32;Non;Sous l'ecran;Non;173;7.81 
+OnePlus Nord 2;279;2400 x 1080 pixels;90;22/07/2021;Dimensity 1200;6 Go,  8 Go,  12 Go;Mali G77- MC9;0,346153846;Octa-core;6;4500,00;65;50 ,  8 ,  2 ;32;Non;Sous l'ecran;Non;189;8.25 
+Xiaomi Poco F4;329;2400 x 1080 pixels;120;23/06/2022;Snapdragon 870;6 Go,  8 Go;Adreno 650;0,335820896;Octo-core;7;4500,00;67;64 ,  8 ,  2 ;20;Non;Oui;Non;195;7.7 
+Xiaomi Poco F4;329;2400 x 1080 pixels;120;23/06/2022;Snapdragon 870;6 Go,  8 Go;Adreno 650;0,335820896;Octo-core;7;4500,00;67;64 ,  8 ,  2 ;20;Non;Oui;Non;195;7.7 
+Xiaomi 12X;469;2400 x 1080 pixels;120;17/01/2022;Snapdragon 870;8 Go,  12 Go;Adreno 650;0,335820896;Octa-core;7;4500,00;67;50 ,  13 ,  5 ;32;Non;Sous l'ecran;Non;176;8.2 
+Realme GT Neo 3T;399;2400 x 1080 pixels;120;;Snapdragon 870;8 Go;Adreno 650;0,3125;Octo-core;7;5000,00;80;64 ,  8 ,  2 ;16;Non;Sous l'ecran;Non;194.5 ;8.65 
+OnePlus Nord 2T;299;2400 x 1080 pixels;90;19/05/2022;Dimensity 1300;8 Go,  12 Go;ARM Mali-G77 MC9;0,28125;Octo-core;;4500,00;80;50 ,  8 ;32;Non;Sous l'ecran;Non;190;8.2 
+Xiaomi 11T Pro;449;2400 x 1080 pixels;120;15/09/2021;Snapdragon 888;8 Go,  12 Go;Adreno 660;0,208333333;Octa-Core;5;5000,00;120;108 ,  8 ,  5 ;16;Non;Oui;Non;204;8.8 
+Xiaomi Redmi Note 11 Pro Plus 5G;349;2400 x 1080 pixels;120;04/04/2022;Dimensity 920;6 Go,  8 Go;ARM Mali-G68 MC4;0,1875;Octa-core;6;4500,00;120;108 ,  8 ,  2 ;16;Oui;Oui;Non;204;8.34 
+OnePlus 10T;459;2412 x 1080 pixels;120;03/08/2022;Snapdragon 8+ Gen 1;8 Go,  12 Go,  16 Go;;0,16;Octo-core;4;4800,00;150;50 ,  8 ,  2 ;16;Non;Sous l'ecran;Inconnu;203;8.75 
+Apple iPhone SE 5G (2022);525;1334 x 750 pixels;60;18/03/2022;A15 Bionic;4 Go;Apple GPU;;Octa-Core;5;;18;12;7;Non;Oui;Oui;144;7.3 

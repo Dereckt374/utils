@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241128T123000Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241128T101500Z
+SUMMARY:Vacation EAE
+UID:fca1ab44-e422-443c-9896-5764cb32003a@fca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241218T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241218T080000Z
+SUMMARY:Vacation EAE
+UID:177593a0-6020-4366-a076-b385bf638812@1775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241121T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241121T080000Z
+SUMMARY:Vacation EAE
+UID:509af794-4473-4d8d-8d2b-623d964db041@509a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241211T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241211T080000Z
+SUMMARY:Vacation EAE
+UID:4a010573-4e1e-4b58-b041-17fcef4b0e51@4a01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241219T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241219T080000Z
+SUMMARY:Vacation EAE
+UID:5982fa6b-d85c-4b6f-839c-a57df85873de@5982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241204T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241204T080000Z
+SUMMARY:Vacation EAE
+UID:375dc4b8-a5de-48c9-aa91-111cd809b7b2@375d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241129T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241129T080000Z
+SUMMARY:Vacation EAE
+UID:acf06792-1218-4d7d-bfce-08b98de26db8@acf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nContact : Capitaine Yannis YOUBI\nEnseignant en Mécanique et Systèmes spatiaux\n\nPISTE - Direction Générale de l’Enseignement et de la Recherche\nÉcole de l’Air et de l'Espace\n\nBase aérienne 701 - 13661 Salon Air\nPNIA : 864 701 6348\n06 59 65 75 09 – Poste 26348\n
+DTEND:20241209T121500Z
+LOCATION:École de l’Air et de l'Espace
+DTSTART:20241209T080000Z
+SUMMARY:Vacation EAE
+UID:fdc3d54a-e056-421e-a909-638fabd3ec01@fdc3.org
+END:VEVENT
+END:VCALENDAR
