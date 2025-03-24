@@ -141,4 +141,28 @@ outils.bonjour()
 
 ---
 
-Si tu veux, je peux t’aider à générer automatiquement un `setup.py` ou `pyproject.toml` à partir de ton projet. Tu veux me décrire rapidement la structure ?
+## Authentification
+
+```bash
+# 1. Générer une paire de clés SSH (publique/privée)
+ssh-keygen -t ed25519 -C "tonmail@example.com"
+# => Crée ~/.ssh/id_ed25519 (privée) et ~/.ssh/id_ed25519.pub (publique)
+
+# 2. Copier la clé publique
+cat ~/.ssh/id_ed25519.pub
+# => Copier le contenu pour le coller dans GitHub
+
+# 3. Ajouter la clé publique à GitHub
+# => GitHub > Settings > SSH and GPG keys > New SSH key > Coller la clé
+
+# 4. Tester la connexion
+ssh -T git@github.com
+# => Vérifie que GitHub te reconnaît via ta clé
+
+# 5. Cloner le dépôt privé via SSH
+git clone git@github.com:ton-utilisateur/ton-repo.git
+# => Clone sécurisé sans mot de passe
+
+```
+
+> 💡 **Règle d’or** : ne jamais partager `id_ed25519`, ta clé privée. Si elle est compromise, recrée une nouvelle paire.
