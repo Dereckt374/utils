@@ -1,4 +1,4 @@
 __pycache__/
-/tools/IMG/img/*
+/tools/IMG/img/
 *.png
 *.jpg

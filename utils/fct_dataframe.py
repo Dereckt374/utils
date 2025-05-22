@@ -104,3 +104,11 @@ def pretreat_df(df, time_col = 'timestamp' , mode=None):
 	df.set_index(time_col, inplace=True)
 	df = df.sort_index()
 	return df
+
+def time_elapsed(df):
+    """
+    Calculate the time elapsed since the first timestamp in the dataframe.
+    """
+    df.index = (df.index - df.index[0]).total_seconds()
+    df.index.name = "time_elapsed [s]"  
+    return df
